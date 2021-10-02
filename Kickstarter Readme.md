@@ -34,18 +34,18 @@ The most successful campaigns were started in May and the least sucessful campai
 
 - What can you conclude about the Outcomes based on Goals?
 
-We can conclude from this chart that the most successful campaigns have lower dollar goals, particularly under $5000. The least successful and the most cancelled campaigns came from the campaigns with the higher dollar goals.
+We can conclude from this chart that the most successful campaigns have lower dollar goals, particularly under $5000. The least successful and the most cancelled campaigns     came from the campaigns with the higher dollar goals.
 
 - What are some limitations of this dataset?
 
-One limitation of this dataset is that the most recent data is from 2017. To provide better information about current trends means we would need more recent data. 
+1. One limitation of this dataset is that the most recent data is from 2017. To provide better information about current trends means we would need more recent data. 
 
-Although we have over 4,000 campaigns, more theater specific data would provide better understanding of those campaigns
+2. Although we have over 4,000 campaigns, more theater specific data would provide better understanding of those campaigns
 
 - What are some other possible tables and/or graphs that we could create?
 
-Box plot of successfully funded plays, whether that be all countries or specific to the US since that is where Louise is looking to launch
+1. Box plot of successfully funded plays, whether that be all countries or specific to the US since that is where Louise is looking to launch
 
-Bar Graph of number of days successful campaigns were open to see potential trends and optimize length of campaign
+2. Bar Graph of number of days successful campaigns were open to see potential trends and optimize length of campaign
 
-Bar Graph of number of backers for successful campaigns to see potential trends and potentially tailoring the message to backers
+3. Bar Graph of number of backers for successful campaigns to see potential trends and potentially tailoring the message to backers
